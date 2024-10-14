@@ -5,7 +5,7 @@
 The primary objective of CYBERSEC-11 is to complete a personal goal: perform an occupational landing as a cybersecurity analyst.  This attaché case is a professional cybersecurity portfolio, containing mission highlights (acquired skills and knowledge) during the exploration of cybersecurity.
 
 ### Mission Highlights
-- Drafting a [professional statement](
+- <a href="https://www.markdownguide.org" target="_blank">Drafting a Professional Statement</a>
 
 ### Launch
 September 29, 2024; 5:10 a.m. CST
