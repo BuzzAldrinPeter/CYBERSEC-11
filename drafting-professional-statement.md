@@ -1,1 +1,0 @@
-##Drafting a Professional Statement
