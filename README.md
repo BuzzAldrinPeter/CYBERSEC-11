@@ -1,4 +1,5 @@
 # LM-5-EAGLE
-[attache-casé]:
+[attaché-case]:
 
-This attaché case contains some of my most valued work.  Thank you for your time.
+### Mission Objective
+This attaché case; a professional cybersecurity portfolio, contains aquired skills and knowledge
