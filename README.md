@@ -16,7 +16,12 @@ Inclination: 32.521 degrees
 Orbits:
 Duration: 14 days
 Distance: 6 months
-Cyber Location: remote
+Occupational Cyber Location: remote
 Cyber Coordinates: 29°43′30″N98°07′32″W29.72500°N 98.12556°W
+
+### Landing
+mm dd, yyyy; h:mm a.m./p.m CST
+City, State
+Recovery Ship: Hiring Company
 
 
