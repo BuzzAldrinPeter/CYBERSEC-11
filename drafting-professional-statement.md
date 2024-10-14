@@ -1,2 +1,4 @@
 ## Drafting a Professional Statement
-Do you see this
+I am a managed services specialist with four years of providing tech support and fourteen years of combined experience in telecommunications, from residential,  commercial, and military LAN/WAN network cabling, where I attribute to my greatest strength problem solving and my commitment to developing a skill in Python. I am passionate about serving those in need, especially the vulnerable, and I value integrity, grit and courage to complete any task handed to me.
+
+Defending vulnerable assets from threat actors is intriguing, espcially when being able to secure enough evidence to put a cyber criminal behind bars using digital forensics.  I hope my efforts would lead me into a paramount employer, with a focus in cybersecurity defese, digital forensics and counter human trafficking.  My strength in problem solving, and dedication to developing a skill in Python, paired with my passion for serving the vulnerable, will compliment like-minded organizations acomplishing the overall mission.
