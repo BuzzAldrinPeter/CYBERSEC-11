@@ -12,7 +12,7 @@ September 29, 2024; 5:10 a.m. CST
 
 ### Orbit
 Altitude: 118.60 miles
-Inclination: 32.521 degrees
+Inclination: 32.521 degrees<br>
 Orbits: <br>
 Duration: 14 days <br>
 Distance: 6 months <br>
