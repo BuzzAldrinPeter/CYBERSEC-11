@@ -19,12 +19,12 @@ Distance: 6 months <br>
 Occupational Cyber Location: remote <br>
 Cyber Coordinates: 29°43′30″N98°07′32″W29.72500°N 98.12556°W
 
-### Favorite Podcast Episodes
-DARKNET DIARIES - EP 145: Shannen
-
 ### Landing
 mm dd, yyyy; h:mm a.m./p.m CST <br>
 City, State <br>
 Recovery Ship: n/a
+
+#### Favorite Podcast Episodes
+DARKNET DIARIES - EP 145: Shannen
 
 
