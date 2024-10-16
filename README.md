@@ -24,7 +24,7 @@ mm dd, yyyy; h:mm a.m./p.m CST <br>
 City, State <br>
 Recovery Ship: n/a
 
-#### Favorite Podcast Episodes
-DARKNET DIARIES - EP 145: Shannen
+### Podcast Playlist
+- Darknet Diaries - EP 145: Shannen
 
 
