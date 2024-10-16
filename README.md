@@ -25,6 +25,6 @@ City, State <br>
 Recovery Ship: n/a
 
 ### Podcast Playlist
-- Darknet Diaries - EP 145: Shannen
+- Darknet Diaries - EP 145: Shannen [Social Engineering / Hacktivism]
 
 
