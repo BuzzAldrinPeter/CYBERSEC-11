@@ -17,7 +17,7 @@ Paraclete (CM-5)
 September 29, 2024; 5:10 a.m. CST
 
 ### Orbit
-Altitude: 118.60 miles
+Altitude: 118.60 miles<br>
 Inclination: 32.521 degrees<br>
 Orbits: 53 revolutions (3.75/day) <br>
 Duration: 14 days <br>
