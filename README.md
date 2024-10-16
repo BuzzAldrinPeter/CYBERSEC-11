@@ -13,7 +13,7 @@ September 29, 2024; 5:10 a.m. CST
 ### Orbit
 Altitude: 118.60 miles
 Inclination: 32.521 degrees<br>
-Orbits: <br>
+Orbits: n/a <br>
 Duration: 14 days <br>
 Distance: 6 months <br>
 Occupational Cyber Location: remote <br>
@@ -22,6 +22,6 @@ Cyber Coordinates: 29°43′30″N98°07′32″W29.72500°N 98.12556°W
 ### Landing
 mm dd, yyyy; h:mm a.m./p.m CST <br>
 City, State <br>
-Recovery Ship: Hiring Company
+Recovery Ship: n/a
 
 
